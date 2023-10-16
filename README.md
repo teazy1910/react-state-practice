@@ -1,3 +1,3 @@
 # Practice React States with Udemy Course
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/teazy1910/react-state-practice/blob/main/public/screenshot.png)https://github.com/teazy1910/react-state-practice/blob/main/public/screenshot.png
